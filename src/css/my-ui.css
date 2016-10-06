@@ -1,0 +1,59 @@
+.site-topbar a{
+  font-size: small;
+}
+
+.site-topbar a:nth-child(2){
+  margin-left: 30px;
+}
+
+.panel-soccer-news, .panel-basketball-news{
+  padding-top: 20px;
+}
+
+.panel, pre{
+  border:none;
+}
+
+.line-height-2{
+  line-height: 200%;
+}
+
+.image-ad{
+  width: 100%;
+}
+
+.panel-specialist{
+  margin-top: 20px;
+}
+
+.warning-box{
+  width: 100%;
+  height: 30px;
+  background: #800000;
+  color: #FFFFFF;
+  line-height:30px;
+  text-align:center;
+  margin-bottom:20px;
+}
+
+
+.portrait-text{
+  font-size: small;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+.protrait{
+  text-align:center;;
+}
+
+.suggest-content{
+  display: none;
+}
+
+.tab-content{
+  height: 200px;
+  line-height:200px;
+  text-align:center;
+  font-size: x-large;
+}
